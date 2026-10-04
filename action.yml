@@ -1,6 +1,6 @@
-name: 'ReadyStack Compliance Lint'
-description: 'Run 137 ReadyStack regulation and deadline linters in CI (CRA, DORA, NIS2, WCAG, PCI, EOL dates, deprecated APIs).'
-author: 'ReadyStack'
+name: 'Rulestamp Compliance Lint'
+description: 'Run 137 Rulestamp regulation and deadline linters in CI (CRA, DORA, NIS2, WCAG, PCI, EOL dates, deprecated APIs).'
+author: 'Rulestamp'
 branding:
   icon: 'shield'
   color: 'orange'
