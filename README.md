@@ -1,6 +1,6 @@
 # Rulestamp Compliance Lint — GitHub Action
 
-> Not affiliated with ReadyStack (readystack.dev). Rulestamp tools are made by the team behind getreadystack.com.
+> Not affiliated with ReadyStack (readystack.dev). Rulestamp tools are made by the team behind [getreadystack.com](https://getreadystack.com/?ref=gh_action).
 
 
 One action, **137 linters**. Each one checks a specific regulation, deadline or breaking change (EU CRA, DORA, NIS2, WCAG 2.2, PCI DSS, Node/Python EOL, removed APIs) against the files in your repo and fails the job when an error-level finding exists.
